@@ -55,3 +55,6 @@ The guide shows how each component contributes to overall availability:
 - **Monitoring Systems** alert on issues before they become critical
 - **Storage Replication** ensures data is never lost
 
+**Special Thanks**
+
+Huge thanks to [Masoud Sedaghat](https://github.com/masoudsedaghat) for clearly explaining the entire architecture to me — and to Claude Sonnet 4 for helping organize and visualize it so well. 
